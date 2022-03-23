@@ -8,7 +8,7 @@ title: Giriş
 thumbnail: /_images/l1.png
 
 # optional
-tldr: "Bu derste Ayrık Sistemler İçin İleri Olasılık dersine giriş yapılacaktır."
+tldr: "Bu derste Sistem Programlama dersine giriş yapılacaktır."
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
@@ -16,7 +16,7 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: https://docs.google.com/presentation/d/e/2PACX-1vQnWU62QtT8nzbZSxQrA2xrQ2wXWAllJAGtFJASPGNDC_6X93qDbr_-eGKMIQs6kam1kswembMlTXFe/pub?start=false&loop=false&delayms=3000
+    - url: https://docs.google.com/
       name: slaytlar
     - url: #
       name: ders kaydı
