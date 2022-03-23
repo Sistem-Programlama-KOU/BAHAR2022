@@ -1,10 +1,10 @@
 # Site settings
-course_name: Olasılık ve Rastlantı Değişkenleri
-course_description: "Olasılık ve Rastlantı Değişkenleri"
+course_name: Sistem Programlama
+course_description: "Sistem Programlama"
 course_semester: "BAHAR2022"
 
 baseurl: "/BAHAR2022" # the subpath of your site, e.g. /blog/
-url: "https://olasilik-ve-rastlanti-degiskenleri.github.io/" # the base hostname & protocol for your site
+url: "https://sistem-programlama.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Kocaeli Üniversitesi"
 schoolurl: "https://kocaeli.edu.tr"
